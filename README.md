@@ -51,7 +51,7 @@ Berikut adalah tampilan dari beberapa halaman utama aplikasi Anime-Verse.
 
 Anda dapat melihat demo aplikasi melalui link video di bawah ini. Video ini mendemonstrasikan seluruh fungsionalitas utama dari aplikasi Anime-Verse.
 
-**[Link Demo Aplikasi](https://drive.google.com/drive/folders/1nuA1EgSCSIwpoqEegyoalcYVwD5Ak1FE)**
+**[Link Demo Aplikasi](https://drive.google.com/drive/u/1/folders/1nuA1EgSCSIwpoqEegyoalcYVwD5Ak1FE)**
 
 
 ### Cara Menjalankan Proyek
