@@ -1,10 +1,11 @@
 # Anime-Verse
 
+[![Flutter](https://img.shields.io/badge/Built%20with-Flutter-blue.svg)](https://flutter.dev) 
+[![Firebase](https://img.shields.io/badge/Backend-Firebase-orange.svg)](https://firebase.google.com)
+[![Jikan API](https://img.shields.io/badge/API-Jikan-green.svg)](https://jikan.moe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
-[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
 
-Repositori ini berisi kode sumber untuk aplikasi mobile "Anime-Verse", sebuah proyek yang dikembangkan sebagai bagian dari tugas perkuliahan.
+Sebuah aplikasi Android untuk menjelajahi dunia anime, dibangun dengan Flutter sebagai bagian dari tugas perkuliahan.
 
 
 ## a. Identitas Mahasiswa
